@@ -1,325 +1,411 @@
 <template>
-<div>
-
-
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
-    <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
-      <div class="row justify-content-center">
-        <div class="col-xl-7 col-lg-9 text-center">
-          <h1>Smart Cast</h1>
-          <h2>The online teaching platform of the future.</h2>
-        </div>
-      </div>
-      <div class="text-center">
-        <a href="#about" class="btn-get-started scrollto">Get Started</a>
-      </div>
-
-      </div>
-  </section><!-- End Hero -->
-
-  <main id="main">
-
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>About Us</h2>
-        </div>
-
-        <div class="row content">
-          <div class="col-lg-6">
-            <p>
-              Since online learning platforms have become a daily part of many peoples lives. 
-              Our company decided to improve upon the basic functions that most streaming platforms.
-              And enhance the exprience of the uploader and the viewer, and get us all through these trying times.
-            </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-            </ul>
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0">
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum.
-            </p>
-            <a href="#" class="btn-learn-more">Learn More</a>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End About Section -->
-
-    <!-- ======= Counts Section ======= -->
-    <section id="counts" class="counts section-bg">
-      <div class="container">
-
+  <div>
+    <!-- ======= Hero Section ======= -->
+    <section id="hero" class="d-flex align-items-center">
+      <div
+        class="container position-relative"
+        data-aos="fade-up"
+        data-aos-delay="100"
+      >
         <div class="row justify-content-center">
-
-          <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
-            <div class="count-box">
-              <span data-toggle="counter-up">13</span>
-              <p>Happy Clients</p>
-            </div>
+          <div class="col-xl-7 col-lg-9 text-center">
+            <h1>Smart Cast</h1>
+            <h2>The online teaching platform of the future.</h2>
           </div>
-
-          <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
-            <div class="count-box">
-              <span data-toggle="counter-up">2</span>
-              <p>Years of experience</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
-            <div class="count-box">
-              <span data-toggle="counter-up">3</span>
-              <p>Awards</p>
-            </div>
-          </div>
-
         </div>
-
-      </div>
-    </section><!-- End Counts Section -->
-
-
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Services</h2>
-         </div>
-
-
-        <div class="row align-items-stretch justify-content-center">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box iconbox-blue">
-              <div class="icon">
-                <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
-                  <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,521.0016835830174C376.1290562159157,517.8887921683347,466.0731472004068,529.7835943286574,510.70327084640275,468.03025145048787C554.3714126377745,407.6079735673963,508.03601936045806,328.9844924480964,491.2728898941984,256.3432110539036C474.5976632858925,184.082847569629,479.9380746630129,96.60480741107993,416.23090153303,58.64404602377083C348.86323505073057,18.502131276798302,261.93793281208167,40.57373210992963,193.5410806939664,78.93577620505333C130.42746243093433,114.334589627462,98.30271207620316,179.96522072025542,76.75703585869454,249.04625023123273C51.97151888228291,328.5150500222984,13.704378332031375,421.85034740162234,66.52175969318436,486.19268352777647C119.04800174914682,550.1803526380478,217.28368757567262,524.383925680826,300,521.0016835830174"></path>
-                </svg>
-                <i class="bx bx-slideshow"></i>
-              </div>
-              <h4><a href="">Video platform</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
-            </div>
-          </div>
-
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box iconbox-pink">
-              <div class="icon">
-                <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
-                  <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,541.5067337569781C382.14930387511276,545.0595476570109,479.8736841581634,548.3450877840088,526.4010558755058,480.5488172755941C571.5218469581645,414.80211281144784,517.5187510058486,332.0715597781072,496.52539010469104,255.14436215662573C477.37192572678356,184.95920475031193,473.57363656557914,105.61284051026155,413.0603344069578,65.22779650032875C343.27470386102294,18.654635553484475,251.2091493199835,5.337323636656869,175.0934190732945,40.62881213300186C97.87086631185822,76.43348514350839,51.98124368387456,156.15599469081315,36.44837278890362,239.84606092416172C21.716077023791087,319.22268207091537,43.775223500013084,401.1760424656574,96.891909868211,461.97329694683043C147.22146801428983,519.5804099606455,223.5754009179313,538.201503339737,300,541.5067337569781"></path>
-                </svg>
-                <i class="bx bx-file"></i>
-              </div>
-              <h4><a href="">License keys</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
-            </div>
-          </div>
-
-
-        </div>
-
-      </div>
-    </section><!-- End Sevices Section -->
-
-    <!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
-      <div class="container" data-aos="zoom-in">
         <div class="text-center">
-          <h3>Call To Action</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          <a class="cta-btn" href="#">Call To Action</a>
+          <a href="#about" class="btn-get-started scrollto">Get Started</a>
         </div>
       </div>
-    </section><!-- End Cta Section -->
+    </section>
+    <!-- End Hero -->
 
+    <main id="main">
+      <!-- ======= About Section ======= -->
+      <section id="about" class="about">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>About Us</h2>
+          </div>
 
-    <!-- ======= Pricing Section ======= -->
-    <section id="pricing" class="pricing">
-      <div class="container" data-aos="fade-up">
+          <div class="row content">
+            <div class="row-lg-2">
+              <p>
+                Since online learning platforms have become a daily part of many
+                peoples lives. Our company decided to improve upon the basic
+                functions that most streaming platforms. And enhance the
+                exprience of the uploader and the viewer, and get us all through
+                these trying times.
+              </p>
+            </div>
+              <a href="#" class="btn-learn-more row-lg-2">Learn More</a>
 
-        <div class="section-title">
-          <h2>Pricing</h2>
+          </div>
         </div>
+      </section>
+      <!-- End About Section -->
 
-        <div class="row">
+      <!-- ======= Counts Section ======= -->
+      <section id="counts" class="counts section-bg">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div
+              class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch"
+            >
+              <div class="count-box">
+                <span data-toggle="counter-up">13</span>
+                <p>Happy Clients</p>
+              </div>
+            </div>
 
-          <div class="col-lg-4 col-md-6" data-aos="zoom-im" data-aos-delay="100">
-            <div class="box">
-              <h3>Free</h3>
-              <h4><sup>€</sup>0<span> / month</span></h4>
-              <ul>
-                <li>That for the timespam of a month gives you access to all educational programs on our platform.</li>
-              <li></li>
-              <li></li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">Sign up now</a>
+            <div
+              class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch"
+            >
+              <div class="count-box">
+                <span data-toggle="counter-up">2</span>
+                <p>Years of experience</p>
+              </div>
+            </div>
+
+            <div
+              class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch"
+            >
+              <div class="count-box">
+                <span data-toggle="counter-up">3</span>
+                <p>Awards</p>
               </div>
             </div>
           </div>
+        </div>
+      </section>
+      <!-- End Counts Section -->
 
-          <div class="col-lg-4 col-md-6 mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
-            <div class="box featured">
-              <h3>Student</h3>
-              <h4><sup>€</sup>5<span> / month</span></h4>
-              <ul>
-                <li>Giving you a bandwith up to 20Mb/sec to watch any of our online courses.</li>
-                <li>You also get acces to our beta testing features and our technical support channels.</li>
-                <li></li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">Sign up now</a>
+      <!-- ======= Services Section ======= -->
+      <section id="services" class="services section-bg">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>Services</h2>
+          </div>
+
+          <div class="row align-items-stretch justify-content-center">
+            <div
+              class="col-lg-4 col-md-6 d-flex align-items-stretch"
+              data-aos="zoom-in"
+              data-aos-delay="100"
+            >
+              <div class="icon-box iconbox-blue">
+                <div class="icon">
+                  <svg
+                    width="100"
+                    height="100"
+                    viewBox="0 0 600 600"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      stroke="none"
+                      stroke-width="0"
+                      fill="#f5f5f5"
+                      d="M300,521.0016835830174C376.1290562159157,517.8887921683347,466.0731472004068,529.7835943286574,510.70327084640275,468.03025145048787C554.3714126377745,407.6079735673963,508.03601936045806,328.9844924480964,491.2728898941984,256.3432110539036C474.5976632858925,184.082847569629,479.9380746630129,96.60480741107993,416.23090153303,58.64404602377083C348.86323505073057,18.502131276798302,261.93793281208167,40.57373210992963,193.5410806939664,78.93577620505333C130.42746243093433,114.334589627462,98.30271207620316,179.96522072025542,76.75703585869454,249.04625023123273C51.97151888228291,328.5150500222984,13.704378332031375,421.85034740162234,66.52175969318436,486.19268352777647C119.04800174914682,550.1803526380478,217.28368757567262,524.383925680826,300,521.0016835830174"
+                    ></path>
+                  </svg>
+                  <i class="bx bx-slideshow"></i>
+                </div>
+                <h4><a href="">Video platform</a></h4>
+                <p>
+                  Voluptatum deleniti atque corrupti quos dolores et quas
+                  molestias excepturi
+                </p>
+              </div>
+            </div>
+
+            <div
+              class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0"
+              data-aos="zoom-in"
+              data-aos-delay="300"
+            >
+              <div class="icon-box iconbox-pink">
+                <div class="icon">
+                  <svg
+                    width="100"
+                    height="100"
+                    viewBox="0 0 600 600"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      stroke="none"
+                      stroke-width="0"
+                      fill="#f5f5f5"
+                      d="M300,541.5067337569781C382.14930387511276,545.0595476570109,479.8736841581634,548.3450877840088,526.4010558755058,480.5488172755941C571.5218469581645,414.80211281144784,517.5187510058486,332.0715597781072,496.52539010469104,255.14436215662573C477.37192572678356,184.95920475031193,473.57363656557914,105.61284051026155,413.0603344069578,65.22779650032875C343.27470386102294,18.654635553484475,251.2091493199835,5.337323636656869,175.0934190732945,40.62881213300186C97.87086631185822,76.43348514350839,51.98124368387456,156.15599469081315,36.44837278890362,239.84606092416172C21.716077023791087,319.22268207091537,43.775223500013084,401.1760424656574,96.891909868211,461.97329694683043C147.22146801428983,519.5804099606455,223.5754009179313,538.201503339737,300,541.5067337569781"
+                    ></path>
+                  </svg>
+                  <i class="bx bx-file"></i>
+                </div>
+                <h4><a href="">License keys</a></h4>
+                <p>
+                  Excepteur sint occaecat cupidatat non proident, sunt in culpa
+                  qui officia
+                </p>
               </div>
             </div>
           </div>
+        </div>
+      </section>
+      <!-- End Sevices Section -->
 
-          <div class="col-lg-4 col-md-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="100">
-            <div class="box">
-              <h3>Enterprise</h3>
-              <h4><sup>€</sup><span> / data storage</span></h4>
-              <ul>
-                <li>For this service we charge per amount of online storage that the company is renting.</li>
-                <li>The video's can also be edited on our platform after being uploaded.</li>
-                <li>The editing tools allow you to timestamp places in your video's and link them to questions/excersises and/or solutions </li>
+      <!-- ======= Cta Section ======= -->
+      <section id="cta" class="cta">
+        <div class="container" data-aos="zoom-in">
 
-              </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">Sign up now</a>
+        </div>
+      </section>
+      <!-- End Cta Section -->
+
+      <!-- ======= Pricing Section ======= -->
+      <section id="pricing" class="pricing">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>Pricing</h2>
+          </div>
+
+          <div class="row">
+            <div
+              class="col-lg-4 col-md-6"
+              data-aos="zoom-im"
+              data-aos-delay="100"
+            >
+              <div class="box">
+                <h3>Free</h3>
+                <h4><sup>€</sup>0<span> / month</span></h4>
+                <ul>
+                  <li>
+                    That for the timespam of a month gives you access to all
+                    educational programs on our platform.
+                  </li>
+                  <li></li>
+                  <li></li>
+                </ul>
+                <div class="btn-wrap">
+                  <a href="#" class="btn-buy">Sign up now</a>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="col-lg-4 col-md-6 mt-4 mt-md-0"
+              data-aos="zoom-in"
+              data-aos-delay="100"
+            >
+              <div class="box featured">
+                <h3>Student</h3>
+                <h4><sup>€</sup>5<span> / month</span></h4>
+                <ul>
+                  <li>
+                    Giving you a bandwith up to 20Mb/sec to watch any of our
+                    online courses.
+                  </li>
+                  <li>
+                    You also get acces to our beta testing features and our
+                    technical support channels.
+                  </li>
+                  <li></li>
+                </ul>
+                <div class="btn-wrap">
+                  <a href="#" class="btn-buy">Sign up now</a>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="col-lg-4 col-md-6 mt-4 mt-lg-0"
+              data-aos="zoom-in"
+              data-aos-delay="100"
+            >
+              <div class="box">
+                <h3>Enterprise</h3>
+                <h4><sup>€</sup><span> / data storage</span></h4>
+                <ul>
+                  <li>
+                    For this service we charge per amount of online storage that
+                    the company is renting.
+                  </li>
+                  <li>
+                    The video's can also be edited on our platform after being
+                    uploaded.
+                  </li>
+                  <li>
+                    The editing tools allow you to timestamp places in your
+                    video's and link them to questions/excersises and/or
+                    solutions
+                  </li>
+                </ul>
+                <div class="btn-wrap">
+                  <a href="#" class="btn-buy">Sign up now</a>
+                </div>
               </div>
             </div>
           </div>
-
         </div>
+      </section>
+      <!-- End Pricing Section -->
 
-      </div>
-    </section><!-- End Pricing Section -->
-
-
-    <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Contact</h2>
-        </div>
-
-        <div>
-          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.be/maps/@50.8774174,4.7009952,14.75z" frameborder="0" allowfullscreen></iframe>
-        </div>
-
-        <div class="row mt-5">
-
-          <div class="col-lg-4">
-            <div class="info">
-              <div class="address">
-                <i class="icofont-google-map"></i>
-                <h4>Location:</h4>
-                <p>3000 Leuven</p>
-              </div>
-
-              <div class="email">
-                <i class="icofont-envelope"></i>
-                <h4>Email:</h4>
-                <p>info@example.com</p>
-              </div>
-
-              <div class="phone">
-                <i class="icofont-phone"></i>
-                <h4>Call:</h4>
-                <p>+32 123 45 67 89</p>
-              </div>
-
-            </div>
-
+      <!-- ======= Contact Section ======= -->
+      <section id="contact" class="contact">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>Contact</h2>
           </div>
 
-          <div class="col-lg-8 mt-5 mt-lg-0">
+          <div>
+            <iframe
+              width="100%"
+              height="600"
+              frameborder="0"
+              scrolling="no"
+              marginheight="0"
+              marginwidth="0"
+              src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=nl&amp;q=Leuven+(Mijn%20bedrijfsnaam)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+            ></iframe>
+          </div>
 
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="form-row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+          <div class="row mt-5">
+            <div class="col-lg-4">
+              <div class="info">
+                <div class="address">
+                  <i class="icofont-google-map"></i>
+                  <h4>Location:</h4>
+                  <p>3000 Leuven</p>
+                </div>
+
+                <div class="email">
+                  <i class="icofont-envelope"></i>
+                  <h4>Email:</h4>
+                  <p>info@example.com</p>
+                </div>
+
+                <div class="phone">
+                  <i class="icofont-phone"></i>
+                  <h4>Call:</h4>
+                  <p>+32 123 45 67 89</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-8 mt-5 mt-lg-0">
+              <form
+                action="forms/contact.php"
+                method="post"
+                role="form"
+                class="php-email-form"
+              >
+                <div class="form-row">
+                  <div class="col-md-6 form-group">
+                    <input
+                      type="text"
+                      name="name"
+                      class="form-control"
+                      id="name"
+                      placeholder="Your Name"
+                      data-rule="minlen:4"
+                      data-msg="Please enter at least 4 chars"
+                    />
+                    <div class="validate"></div>
+                  </div>
+                  <div class="col-md-6 form-group">
+                    <input
+                      type="email"
+                      class="form-control"
+                      name="email"
+                      id="email"
+                      placeholder="Your Email"
+                      data-rule="email"
+                      data-msg="Please enter a valid email"
+                    />
+                    <div class="validate"></div>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <input
+                    type="text"
+                    class="form-control"
+                    name="subject"
+                    id="subject"
+                    placeholder="Subject"
+                    data-rule="minlen:4"
+                    data-msg="Please enter at least 8 chars of subject"
+                  />
                   <div class="validate"></div>
                 </div>
-                <div class="col-md-6 form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                <div class="form-group">
+                  <textarea
+                    class="form-control"
+                    name="message"
+                    rows="5"
+                    data-rule="required"
+                    data-msg="Please write something for us"
+                    placeholder="Message"
+                  ></textarea>
                   <div class="validate"></div>
                 </div>
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                <div class="validate"></div>
-              </div>
-              <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-                <div class="validate"></div>
-              </div>
-              <div class="mb-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
-
+                <div class="mb-3">
+                  <div class="loading">Loading</div>
+                  <div class="error-message"></div>
+                  <div class="sent-message">
+                    Your message has been sent. Thank you!
+                  </div>
+                </div>
+                <div class="text-center">
+                  <button type="submit">Send Message</button>
+                </div>
+              </form>
+            </div>
           </div>
-
         </div>
+      </section>
+      <!-- End Contact Section -->
+    </main>
+    <!-- End #main -->
 
-      </div>
-    </section><!-- End Contact Section -->
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+      <div class="footer-top">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-3 col-md-6 footer-contact">
+              <h3>Smart Cast</h3>
+              <p>
+                3000 Leuven<br />
+                Belgium <br /><br />
+                <strong>Phone:</strong> +32 123 45 67 89<br />
+                <strong>Email:</strong> info@example.com<br />
+              </p>
+            </div>
 
-  </main><!-- End #main -->
-
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Smart Cast</h3>
-            <p>
-              3000 Leuven<br>
-              Belgium <br><br>
-              <strong>Phone:</strong> +32 123 45 67 89<br>
-              <strong>Email:</strong> info@example.com<br>
-            </p>
+            <div class="col-lg-4 col-md-6 footer-newsletter">
+              <h4>Join Our Newsletter</h4>
+              <form action="" method="post">
+                <input type="email" name="email" /><input
+                  type="submit"
+                  value="Subscribe"
+                />
+              </form>
+            </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Join Our Newsletter</h4>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
-
         </div>
       </div>
-    </div>
 
-    <div class="container d-md-flex py-4">
-
-      <div class="mr-md-auto text-center text-md-left">
-        <div class="copyright">
-          &copy; Copyright <strong><span>Smart Cast</span></strong>. All Rights Reserved
+      <div class="container d-md-flex py-4">
+        <div class="mr-md-auto text-center text-md-left">
+          <div class="copyright">
+            &copy; Copyright <strong><span>Smart Cast</span></strong
+            >. All Rights Reserved
+          </div>
         </div>
       </div>
-    </div>
-  </footer><!-- End Footer -->
+    </footer>
+    <!-- End Footer -->
 
-  <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
-</div>
+    <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
+  </div>
 </template>
 
 <script>
@@ -329,15 +415,13 @@ export default {
   methods: {
     Lecturer() {
       console.log("Lecturer");
-    }
+    },
   },
 };
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-
-
+<style>
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -355,7 +439,12 @@ a:hover {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Raleway", sans-serif;
 }
 
@@ -513,7 +602,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans", sans-serif;
 }
 
-.nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
+.nav-menu a:hover,
+.nav-menu .active > a,
+.nav-menu li:hover > a {
   color: #2487ce;
 }
 
@@ -551,7 +642,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #124265;
 }
 
-.nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
+.nav-menu .drop-down ul a:hover,
+.nav-menu .drop-down ul .active > a,
+.nav-menu .drop-down ul li:hover > a {
   color: #2487ce;
 }
 
@@ -673,7 +766,9 @@ h1, h2, h3, h4, h5, h6 {
   outline: none;
 }
 
-.mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
+.mobile-nav a:hover,
+.mobile-nav .active > a,
+.mobile-nav li:hover > a {
   color: #2487ce;
   text-decoration: none;
 }
@@ -1033,7 +1128,7 @@ section {
 }
 
 .about-video .play-btn::after {
-  content: '';
+  content: "";
   position: absolute;
   left: 50%;
   top: 50%;
@@ -1048,7 +1143,7 @@ section {
 }
 
 .about-video .play-btn::before {
-  content: '';
+  content: "";
   position: absolute;
   width: 120px;
   height: 120px;
@@ -1076,7 +1171,7 @@ section {
 }
 
 .about-video .play-btn:hover::before {
-  content: '';
+  content: "";
   position: absolute;
   left: 50%;
   top: 50%;
@@ -1170,7 +1265,8 @@ section {
   margin: 0;
 }
 
-.testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
+.testimonials .testimonial-item .quote-icon-left,
+.testimonials .testimonial-item .quote-icon-right {
   color: #c9e3f5;
   font-size: 26px;
 }
@@ -1210,7 +1306,8 @@ section {
   left: calc(50% - 20px);
 }
 
-.testimonials .owl-nav, .testimonials .owl-dots {
+.testimonials .owl-nav,
+.testimonials .owl-dots {
   margin-top: 5px;
   text-align: center;
 }
@@ -1434,7 +1531,8 @@ section {
   transition: all 0.3s ease-in-out;
 }
 
-.portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
+.portfolio #portfolio-flters li:hover,
+.portfolio #portfolio-flters li.filter-active {
   color: #2487ce;
 }
 
@@ -1722,7 +1820,11 @@ section {
   background: #2487ce;
 }
 
-.pricing .featured h3, .pricing .featured h4, .pricing .featured h4 span, .pricing .featured ul, .pricing .featured ul .na {
+.pricing .featured h3,
+.pricing .featured h4,
+.pricing .featured h4 span,
+.pricing .featured ul,
+.pricing .featured ul .na {
   color: #fff;
 }
 
@@ -1783,7 +1885,8 @@ section {
   color: #87c1ea;
 }
 
-.faq .faq-list .icon-show, .faq .faq-list .icon-close {
+.faq .faq-list .icon-show,
+.faq .faq-list .icon-close {
   font-size: 24px;
   position: absolute;
   right: 0;
@@ -1858,11 +1961,14 @@ section {
   color: #217bbc;
 }
 
-.contact .info .email, .contact .info .phone {
+.contact .info .email,
+.contact .info .phone {
   margin-top: 40px;
 }
 
-.contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
+.contact .info .email:hover i,
+.contact .info .address:hover i,
+.contact .info .phone:hover i {
   background: #2487ce;
   color: #fff;
 }
@@ -1926,14 +2032,16 @@ section {
   animation: animate-loading 1s linear infinite;
 }
 
-.contact .php-email-form input, .contact .php-email-form textarea {
+.contact .php-email-form input,
+.contact .php-email-form textarea {
   border-radius: 0;
   box-shadow: none;
   font-size: 14px;
   border-radius: 4px;
 }
 
-.contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
+.contact .php-email-form input:focus,
+.contact .php-email-form textarea:focus {
   border-color: #2487ce;
 }
 
@@ -2045,7 +2153,8 @@ section {
   z-index: 1;
 }
 
-.portfolio-details .portfolio-details-carousel .owl-nav, .portfolio-details .portfolio-details-carousel .owl-dots {
+.portfolio-details .portfolio-details-carousel .owl-nav,
+.portfolio-details .portfolio-details-carousel .owl-dots {
   margin-top: 5px;
   text-align: left;
 }
@@ -2272,5 +2381,4 @@ section {
   color: #fff;
   text-decoration: none;
 }
-
 </style>
