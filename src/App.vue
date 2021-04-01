@@ -1,15 +1,10 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/prices">Prices</router-link> |
-      <router-link to="/shop">Licence Shop</router-link>
-    </div>
+
+      <a href="license.html" class="get-started-btn scrollto"><router-link to="/shop">License keys</router-link></a>
 
     <router-view/>
   </div>
-
-  
 </template>
 
 <style>
